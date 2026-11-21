@@ -8,7 +8,7 @@
 - 19 українських фраз Олесі (Respeecher), магічні сигнали, кнопка зі щипком струни, плавне затухання запуску й вимкнення.
 - На D08 підтверджено напис «Українська» з літерою ї, стани Wi-Fi та прощання «Подорожуйте безпечно щодня». У частині рядків для відображення використані латинські i та M.
 
-[Прев’ю звуку (WAV)](https://github.com/mercurieus/70mai-d08-uk/releases/download/v1.0.0/70mai_D08_v1.0.0_sound_preview.wav) — запуск, початок запису голосом Олесі, кнопка, затвор, аварійне відео, батарея та вимкнення.
+[▶ Слухати в браузері](https://mercurieus.github.io/70mai-d08-uk/audio.html) · [MP3](https://github.com/mercurieus/70mai-d08-uk/releases/download/v1.0.0/70mai_D08_v1.0.0_sound_preview.mp3) · [WAV](https://github.com/mercurieus/70mai-d08-uk/releases/download/v1.0.0/70mai_D08_v1.0.0_sound_preview.wav) — запуск, початок запису голосом Олесі, кнопка, затвор, аварійне відео, батарея та вимкнення.
 
 ## Фото з D08
 
